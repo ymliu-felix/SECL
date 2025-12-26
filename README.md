@@ -1,2 +1,2 @@
 # SECL
-Evolution Rather Than Degradation: Structure-Guided Elastic Consensus Learning for Multimodal Knowledge Graph Completion
+Code of "Evolution Rather Than Degradation: Structure-Guided Elastic Consensus Learning for Multimodal Knowledge Graph Completion"
