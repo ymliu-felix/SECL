@@ -2,4 +2,4 @@ Code of paper "Evolution Rather Than Degradation: Structure-Guided Elastic Conse
 
 # Dataset Download
 
-Download raw images of FB15K-237 and WN18RR from [MKGformer](https://github.com/zjunlp/MKGformer)
+Download raw data of FB15K-237 and WN18RR from [MMKB](https://github.com/mniepert/mmkb), [RSME](https://github.com/wangmengsd/RSME), or [MKGformer](https://github.com/zjunlp/MKGformer), MKG-W and MKG-Y from [MMRNS](https://github.com/quqxui/MMRNS).
